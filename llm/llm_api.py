@@ -24,7 +24,7 @@ class LLMInterface:
         streaming=False,
         repo="./repo",
         platform="openai",
-        api_token="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"
+        api_token=""
     ):
         """The LLM interface for the ToQC
 
